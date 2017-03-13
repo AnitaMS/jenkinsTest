@@ -22,7 +22,7 @@ public class smokeTest {
 	private String baseUrl;
 	pageFactory searchPage;
 	WebDriverWait wait;
-
+//
 	@BeforeTest
 	public void beforeMethod() {
 
